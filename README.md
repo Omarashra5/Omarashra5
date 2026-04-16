@@ -24,9 +24,7 @@ Aspiring Full-Stack Developer 👨‍💻
 ---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/kgjfkgj.gfgfgb/)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/tss_vvk/)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/201012329975)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook)](https://www.facebook.com/kgjfkgj.gfgfgb/)  [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/tss_vvk/)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp)](https://wa.me/201012329975)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:omarcreat33@gmail.com)
 
 ---
