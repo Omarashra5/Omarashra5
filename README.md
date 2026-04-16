@@ -55,12 +55,15 @@ Aspiring Full-Stack Developer 👨‍💻
 ![Authentication](https://img.shields.io/badge/authentication-black)
 ![REST API](https://img.shields.io/badge/rest-api-orange)
 ![API Integration](https://img.shields.io/badge/api-integration-blue)
+<br>
 ![API Development](https://img.shields.io/badge/api-development-green)
 ![API Testing](https://img.shields.io/badge/api-testing-yellow)
 ![Laravel API](https://img.shields.io/badge/laravel-api-red?logo=laravel)
+<br>
 ![Node.js API](https://img.shields.io/badge/nodejs-api-green?logo=node.js)
 ![React API](https://img.shields.io/badge/react-api-black?logo=react)
 ![Apache](https://img.shields.io/badge/apache-red?logo=apache)
+<br>
 ![WordPress](https://img.shields.io/badge/wordpress-blue?logo=wordpress)
 ![Python](https://img.shields.io/badge/python-yellow?logo=python)
 ![Tkinter](https://img.shields.io/badge/tkinter-lightgrey)
