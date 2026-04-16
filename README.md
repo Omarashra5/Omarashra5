@@ -36,6 +36,7 @@ Aspiring Full-Stack Developer 👨‍💻
 ![CSS3](https://img.shields.io/badge/css3-blue?logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
 ![React](https://img.shields.io/badge/react-black?logo=react)
+<br>
 ![Node.js](https://img.shields.io/badge/node.js-green?logo=node.js)
 ![PHP](https://img.shields.io/badge/php-purple?logo=php)
 ![Laravel](https://img.shields.io/badge/laravel-red?logo=laravel)
