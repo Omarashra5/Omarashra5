@@ -130,8 +130,3 @@ Aspiring Full-Stack Developer 👨‍💻
 
 [![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omarashra5&theme=tokyo-night)](https://github.com/Omarashra5)
 ---
-
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=dark)
