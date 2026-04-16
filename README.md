@@ -1,5 +1,3 @@
-![snake gif](https://github.com/Omarashra5/Omarashra5/blob/output/github-contribution-grid-snake.svg)
-
 ## 👋 About Me:
 Aspiring Full-Stack Developer 👨‍💻  
 
