@@ -1,3 +1,5 @@
+![snake gif](https://github.com/Omarashra5/Omarashra5/blob/output/github-contribution-grid-snake.svg)
+
 ## 👋 About Me:
 Aspiring Full-Stack Developer 👨‍💻  
 
@@ -19,7 +21,7 @@ Aspiring Full-Stack Developer 👨‍💻
 🎯 Passionate about building impactful, high-performance applications  
 
 📁 Portfolio:
-👉 [https://lnkd.in/dyrBi5Uv]
+👉 [https://profileomar.vercel.app/]
 
 ---
 
@@ -55,6 +57,12 @@ Aspiring Full-Stack Developer 👨‍💻
 ### ⚙️ Backend & Tools:
 ![Authentication](https://img.shields.io/badge/authentication-black)
 ![REST API](https://img.shields.io/badge/rest-api-orange)
+![API Integration](https://img.shields.io/badge/api-integration-blue)
+![API Development](https://img.shields.io/badge/api-development-green)
+![API Testing](https://img.shields.io/badge/api-testing-yellow)
+![Laravel API](https://img.shields.io/badge/laravel-api-red?logo=laravel)
+![Node.js API](https://img.shields.io/badge/nodejs-api-green?logo=node.js)
+![React API](https://img.shields.io/badge/react-api-black?logo=react)
 ![Apache](https://img.shields.io/badge/apache-red?logo=apache)
 ![WordPress](https://img.shields.io/badge/wordpress-blue?logo=wordpress)
 ![Python](https://img.shields.io/badge/python-yellow?logo=python)
@@ -76,6 +84,20 @@ Aspiring Full-Stack Developer 👨‍💻
 ![Upwork](https://img.shields.io/badge/upwork-green?logo=upwork)
 ![LinkedIn](https://img.shields.io/badge/linkedin-blue?logo=linkedin)
 
+
+---
+
+### 🧰 Tools & Workflow:
+
+![Express.js](https://img.shields.io/badge/express-black?logo=express)
+![Jira](https://img.shields.io/badge/jira-blue?logo=jira)
+![Postman](https://img.shields.io/badge/postman-orange?logo=postman)
+![Figma](https://img.shields.io/badge/figma-purple?logo=figma)
+![Canva](https://img.shields.io/badge/canva-blue?logo=canva)
+![Nodemon](https://img.shields.io/badge/nodemon-green?logo=nodemon)
+![Vite](https://img.shields.io/badge/vite-yellow?logo=vite)
+![Git](https://img.shields.io/badge/git-orange?logo=git)
+
 ---
 
 ### 📊 Productivity:
@@ -92,7 +114,26 @@ Aspiring Full-Stack Developer 👨‍💻
 
 ---
 
-## 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+## 📊 GitHub Analytics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarashra5&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph:
+
+[![Omar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omarashra5&theme=tokyo-night)](https://github.com/Omarashra5)
+---
+
+## 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=dark)
