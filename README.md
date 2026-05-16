@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,25:0F2027,50:203A43,75:2C5364,100:00F7FF&text=OMAR%20ASHRAF&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20ELITE%20FULL-STACK%20DEVELOPER%20⚡&descAlignY=58&descSize=24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:00F7FF&text=OMAR%20ASHRAF&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20FULL-STACK%20DEVELOPER%20⚡&descAlignY=58&descSize=22"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=150&lines=⚡+WELCOME+TO+MY+GITHUB+PROFILE+⚡;FULL-STACK+WEB+DEVELOPER;REACT+%7C+NODE.JS+%7C+LARAVEL;BUILDING+SCALABLE+APPLICATIONS;CLEAN+CODE+%7C+SYSTEM+DESIGN;TURNING+IDEAS+INTO+REALITY+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=⚡+WELCOME+TO+MY+GITHUB+PROFILE+⚡;FULL-STACK+WEB+DEVELOPER;REACT+%7C+NODE.JS+%7C+LARAVEL;BUILDING+SCALABLE+APPLICATIONS;CLEAN+CODE+%7C+REST+APIs+%7C+SYSTEM+DESIGN;TURNING+IDEAS+INTO+REALITY+🚀"/>
 
 </div>
 
@@ -10,48 +10,46 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Omarashra5&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Omarashra5?style=for-the-badge&logo=github&label=Followers&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/Omarashra5?style=for-the-badge&logo=github&label=Followers&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/Omarashra5?style=for-the-badge&logo=github&label=Stars&color=8A2BE2"/>
 
-<img src="https://img.shields.io/github/stars/Omarashra5?style=for-the-badge&logo=github&label=Stars&color=00C853"/>
+<img src="https://komarev.com/ghpvc/?username=Omarashra5&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_WORK-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> ABOUT ME
+# 👨‍💻 ABOUT ME
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 ```javascript
 const omar = {
-    role: "Elite Full-Stack Developer",
-    specialization: "Scalable Web Applications",
-    code: ["JavaScript", "PHP", "Python"],
-    frontend: ["React", "Tailwind", "Bootstrap"],
-    backend: ["Node.js", "Express", "Laravel"],
-    database: ["MySQL"],
-    architecture: ["REST APIs", "System Design"],
-    currentlyLearning: [
-        "Advanced Backend Architecture",
-        "Performance Optimization",
-        "Scalable Systems"
-    ],
-    lifePhilosophy: "Build. Learn. Repeat. 🚀"
+  role: "Full-Stack Developer",
+  frontend: ["React", "Tailwind", "Bootstrap"],
+  backend: ["Node.js", "Express", "Laravel"],
+  database: ["MySQL"],
+  currentlyLearning: [
+      "System Design",
+      "Scalable Architecture",
+      "Performance Optimization"
+  ],
+  lifeStyle: "Code • Coffee • Repeat ☕"
 };
 ```
 
-💻 Passionate about building modern, scalable, and real-world applications with clean architecture and high performance.
+💻 Passionate about building scalable and modern web applications.
 
-🔥 Built multiple Full-Stack projects including:
-- 🛒 E-Commerce Platforms
-- 📊 Admin Dashboards
-- 🔐 Authentication Systems
-- ⚡ REST APIs
-- 🌍 Production-Ready Applications
+🚀 Specialized in:
+- Full-Stack Development
+- REST APIs
+- E-Commerce Platforms
+- Admin Dashboards
+- Authentication Systems
+- Clean Architecture
 
 ---
 
@@ -59,13 +57,13 @@ const omar = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,python,tailwind,bootstrap,git,github,vercel,postman,vscode,firebase&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,laravel,mysql,python,tailwind,bootstrap,git,github,vercel,postman,vscode&perline=10"/>
 
 </div>
 
 ---
 
-# 🧠 ENGINEERING CONCEPTS
+# 🧠 ENGINEERING SKILLS
 
 <div align="center">
 
@@ -75,25 +73,23 @@ const omar = {
 
 <img src="https://img.shields.io/badge/REST_API-blue?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Algorithms-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-purple?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Problem_Solving-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Algorithms-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Scalable_Architecture-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Performance_Optimization-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance_Optimization-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 GITHUB ANALYTICS
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -103,7 +99,7 @@ const omar = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Omarashra5&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Omarashra5&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -113,7 +109,7 @@ const omar = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarashra5&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Omarashra5&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -123,19 +119,7 @@ const omar = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Omarashra5&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 💻 LIVE CODING
-
-<div align="center">
-
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-<img width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Omarashra5&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -151,12 +135,24 @@ const omar = {
 
 ---
 
+# 💻 CODING LIFE
+
+<div align="center">
+
+<img width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
+<img width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+</div>
+
+---
+
 # 🌍 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://profileomar.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="mailto:omarcreat33@gmail.com">
@@ -179,31 +175,31 @@ const omar = {
 
 ---
 
-# ☄️ DEV QUOTE
+# ☄️ RANDOM DEV QUOTE
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# ⚡ TERMINAL STYLE
+# 😂 DEV JOKE
 
 <div align="center">
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🌌 CYBERPUNK ANIMATION
+# 🌌 MATRIX MODE
 
 <div align="center">
 
-<img width="100%" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"/>
+<img width="100%" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif"/>
 
 </div>
 
@@ -211,7 +207,7 @@ const omar = {
 
 <div align="center">
 
-# ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
+# ⚡ BUILD • LEARN • DOMINATE ⚡
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F7FF,50:8A2BE2,100:000000&section=footer"/>
 
