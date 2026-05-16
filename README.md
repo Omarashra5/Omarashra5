@@ -1,4 +1,4 @@
-# ⚡ OMAR ASHRAF — FULL-STACK DEVELOPER ⚡
+#  OMAR ASHRAF — FULL-STACK DEVELOPER 
 
 <div align="center">
 
