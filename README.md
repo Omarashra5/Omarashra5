@@ -15,11 +15,11 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/life/coding.gif"/>
 
 ```js
-const omar = {
+const Omar = {
   role: "Full-Stack Developer",
   frontend: ["React", "Tailwind", "Bootstrap"],
-  backend: ["Node.js", "Express", "Laravel"],
-  database: ["MySQL"],
+  backend: ["Node.js", "Express", "Laravel" , "PHP"],
+  database: ["MySQL", "Mongo DB"],
   focus: ["APIs", "System Design", "Performance"],
   mindset: "Build → Break → Improve → Scale"
 };
@@ -49,18 +49,6 @@ const omar = {
 <img src="https://img.shields.io/badge/REST_API-2563eb?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Problem_Solving-7c3aed?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scalability-red?style=for-the-badge"/>
-
-</div>
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Omarashra5&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarashra5&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
