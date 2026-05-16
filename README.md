@@ -1,4 +1,4 @@
-#  OMAR ASHRAF — FULL-STACK DEVELOPER 
+#  <h1 align="center">OMAR ASHRAF — FULL-STACK DEVELOPER</h1> 
 
 <div align="center">
 
