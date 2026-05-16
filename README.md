@@ -4,7 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:00F7FF&text=OMAR%20ASHRAF&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=FULL-STACK%20DEVELOPER&descAlignY=60&descSize=20"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+Laravel;Building+Scalable+Systems;Clean+Code+%26+APIs;Turning+Ideas+Into+Reality+🚀"/>
 
 </div>
 
