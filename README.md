@@ -53,7 +53,7 @@ const Omar = {
 
 ---
 
-# 🔥 STREAK STATS (FIXED)
+# 🔥 STREAK STATS 
 
 <div align="center">
 
@@ -63,7 +63,7 @@ const Omar = {
 
 ---
 
-# 📈 CONTRIBUTION GRAPH (STABLE)
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -83,7 +83,7 @@ const Omar = {
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE (100% WORKING)
+# 🐍 CONTRIBUTION SNAKE 
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const Omar = {
 
 ---
 
-# 💻 CODING VIBE (STABLE GIFS ONLY)
+# 💻 CODING VIBE
 
 <div align="center">
 
