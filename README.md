@@ -13,17 +13,40 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/life/coding.gif"/>
 
-```js
 const Omar = {
+  name: "Omar Ashraf",
   role: "Full-Stack Developer",
-  frontend: ["React", "Tailwind", "Bootstrap"],
-  backend: ["Node.js", "Express", "Laravel" , "PHP"],
-  database: ["MySQL", "Mongo DB"],
-  focus: ["APIs", "System Design", "Performance"],
-  mindset: "Build → Break → Improve → Scale"
-};
-```
 
+  frontend: [
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Framer Motion"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "PHP",
+    "Laravel"
+  ],
+
+  database: [
+    "MongoDB",
+    "MySQL"
+  ],
+
+  focus: [
+    "REST APIs",
+    "System Design",
+    "Performance Optimization",
+    "Scalable Applications",
+    "Modern UI/UX"
+  ],
+
+  mindset: "Build → Break → Improve → Scale 🚀"
+};
 💻 Building real-world scalable web apps
 ⚡ Focused on performance, clean architecture & APIs
 
