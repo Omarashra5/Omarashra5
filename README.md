@@ -15,7 +15,7 @@
 
 const Omar = {
   name: "Omar Ashraf",
-  role: "Full-Stack Developer",
+  role: "Frontend Developer",
 
   frontend: [
     "React.js",
