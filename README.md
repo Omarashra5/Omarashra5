@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:00F7FF&text=OMAR%20ASHRAF&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20DEVELOPER&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:00F7FF&text=OMAR%20ASHRAF&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=FRONTEND%20DEVELOPER&descAlignY=60&descSize=20"/>
 
 
 </div>
